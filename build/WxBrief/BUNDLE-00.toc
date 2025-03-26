@@ -1,0 +1,3 @@
+([('WxBrief',
+   '/Users/erikmacbookAIR/Library/CloudStorage/Dropbox/Mac/Desktop/WxBrief/WxBrief/dist/WxBrief',
+   'EXECUTABLE')],)
